@@ -238,3 +238,6 @@ This repository serves as the official landing page for AbiWord. The software is
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of AbiWord today!**
+
+---
+**Last updated:** 2026-09-12 18:16:04 UTC
